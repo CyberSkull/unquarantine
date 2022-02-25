@@ -7,4 +7,4 @@ if `which -s xattr`
   else
     echo "\bxattr is not in your path."
     return 1
-  fi
+fi
